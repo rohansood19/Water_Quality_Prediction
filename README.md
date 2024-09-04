@@ -61,7 +61,7 @@ The key results of this project are the predictive performance metrics for the v
 
 The project uses the following libraries:
 
-- **Python**: `3.8`
+- **Python**: `3.9`
 - **numpy**
 - **pandas**
 - **seaborn**
